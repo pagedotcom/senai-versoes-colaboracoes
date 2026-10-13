@@ -1,0 +1,20 @@
+# segredo.txt
+
+# Ignora um arquivo específico
+segredo.txt
+
+# Ignora todos os arquivos .log
+*.log
+
+# Ignora uma pasta inteira
+temp/
+
+# Ignora tudo dentro de uma pasta de dependências
+node_modules/
+
+# Ignora um arquivo específico
+segredo.txt
+arquivo-nao-publicado.txt
+
+# Ignora todos os arquivos .log
+*.log
