@@ -1,0 +1,5 @@
+Meu primeiro arquivo
+
+Meu nome é Alexandre sou casado,  tenho 44 anos, tenho uma filha de 5 anos, sou formado no ensino superior, moro em Mauá, São Paulo.
+
+Estou fazendo programação em mobile com Flutter.

@@ -6,5 +6,8 @@ readme exemplo
 
 "lembrei do comando: git status"
 
-"alterando o comando de comentário para: git commit-m "
+<<<<<<< HEAD
+"lembrei do comando: git commit"
+
+
 
